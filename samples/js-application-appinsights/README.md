@@ -1,3 +1,16 @@
+---
+page_type: sample
+products:
+- office-sp
+languages:
+- javascript
+- typescript
+extensions:
+  contentType: samples
+  technologies:
+  - SharePoint Framework
+  createdDate: 6/1/2017 12:00:00 AM
+---
 # Injecting Javascript with Sharepoint Framework Extensions - Azure Application Insights
 
 ## Summary
@@ -65,5 +78,5 @@ The instrumentation key of the Azure Application Insights resource to use is sto
 
 ## Features
 This extension injects javascript needed to track pages in SharePoint Online with Azure Application Insights
-
+ 
 <img src="https://telemetry.sharepointpnp.com/sp-dev-fx-extensions/samples/js-application-appinsights" />
